@@ -52,15 +52,15 @@ If you have opted to install a Linux Virtual Machine, use the following instruct
 
 Launch VirtualBox. Click on the "New" button on the upper left corner of the window. Provide the Virtual Machine a Name, and select the Type and Version to match the following image.
 
-![create-virtual-machine.png]
+![create virtual machine](create-virtual-machine.png?raw=true)
 
 Next, you will be asked to select an amount of Memory. 1024 MB should be the minimum you select. If your computer has more than 4GB of memory or you know what you are doing, then you can increase this amount.
 
-![select-memory.png]
+![select memory](select-memory.png?raw=true)
 
 Next, you will be asked about the Hard disk, select "Create a virtual hard disk now", click "Create",
 
-![select-harddisk.png]
+![select hard disk](select-harddisk.png?raw=true)
 
 then select the "VDI" option, then the "Dynamically Allocated" option, then you will be asked how much space to assign the hard disk. 10GB is the minimum you should choose. You can assign more space (20-40GB) if you plan on using this virtual machine for additional development and if you have the space available on your computer.
 
@@ -82,7 +82,7 @@ You will now be presented with the Lubuntu installation menu. You can leave all 
 - Select your Location
 - Press enter on keyboard layout
 - Provide your name and password (remember this, you'll need it in future)
-![create-lubuntu-account.png]
+![create lubuntu account](create-lubuntu-account.png?raw=true)
 
 The installation takes a few minutes to an hour depending on your computers specs. Once installation is done, Restart the VM.
 
